@@ -1,7 +1,7 @@
 name: Vienan
 description: let's light up the world
 
-url: https://vienan.github.io/
+url: http://brianmaierjr.com/long-haul/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
