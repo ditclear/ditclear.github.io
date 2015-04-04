@@ -1,7 +1,7 @@
-name: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+name: Vienan
+description: Light up the world...
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://github.com/vienan/vienan.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
