@@ -1,5 +1,5 @@
 name: Vienan
-description: Light up the world...
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://github.com/vienan/vienan.github.io
 paginate_path: "blog/page:num/"
