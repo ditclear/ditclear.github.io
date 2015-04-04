@@ -1,7 +1,7 @@
 name: Vienan
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://github.com/vienan/vienan.github.io
+url: http://brianmaierjr.github.com/long-haul
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
