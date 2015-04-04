@@ -1,7 +1,7 @@
 name: Vienan
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: let's light up the world
 
-url: https://vienan.github.io
+url: http://vienan.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
