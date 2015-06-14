@@ -4,7 +4,7 @@ title:  "android备忘之命名"
 date:   2015-5-26
 ---
 
-<p class="intro"><span class="dropcap">A</span>ndroid编程规范与常用技巧</p>
+<p class="intro"><span class="dropcap">Android</span>编程规范与常用技巧</p>
 
 ##一、Android编码规范
 ```java
