@@ -4,7 +4,7 @@ title:  "android备忘之命名"
 date:   2015-5-26
 ---
 
-<p class="intro"><span class="dropcap">学</span>习Flask的时候遇到了sqlite3.OperationalError: unable to open database的问题。查了一下，觉得主要的问题是自己的路径写成了绝对路径，导致了错误。</p>
+<p class="intro"><span class="dropcap">A</span>ndroid编程规范与常用技巧</p>
 
 ##一、Android编码规范
 ```java
