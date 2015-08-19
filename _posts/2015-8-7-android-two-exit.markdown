@@ -6,8 +6,6 @@ date:   2015-8-7
 
 <p class="intro"><span class="dropcap">A</span>ndroid应用中两次返回退出是很常见的，而且也很容易提醒用户，避免误操作。而实现起来也很简单，只需要在你的mainActivity中加入一段代码就可以了。</p>
 
-##CODE
-
 ```java
 
 	/**
