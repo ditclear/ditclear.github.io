@@ -7,11 +7,14 @@ date:   2015-8-27
 <p class="intro"><span class="dropcap">最</span>近开发一款app的时候需要用到时光轴，就去了解了一下怎么去做，然后知道需要用 ExpandableListview .而ExpandaListview其实就相当于我们非常熟悉的listview,当然没listview那么多开源代码。</p>
 
 
+
 ###效果如下：
 
 <div  align="center">  
  <img style="box-shadow:5px 0 5px;" src="{{ site.url }}/assets/img/expandableListview.jpg" alt="expandableListview">
 </div>
+
+**[app下载](http://dp.wdjcdn.com/files/phoenix/4.52.1.8061/wandoujia-wandoujia_organic_binded.apk?remove=2&append=%93%00eyJhcHBEb3dubG9hZCI6eyJkb3dubG9hZFR5cGUiOiJkb3dubG9hZF9ieV9wYWNrYWdlX25hbWUiLCJwYWNrYWdlTmFtZSI6InZpZW5hbi5hcHAuY2FyZGdhbGxlcnkifX0Wdj01B0000837625)**
 
 一个简单的ExpandableListView和listview差不多，主要是adpter麻烦些：
 
