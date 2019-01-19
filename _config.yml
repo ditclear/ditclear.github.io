@@ -16,3 +16,5 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+
+theme: jekyll-theme-dinky
