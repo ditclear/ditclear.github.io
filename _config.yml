@@ -7,10 +7,10 @@ logo: false
 paginate: 5
 paginate_path: "/blog/page:num/"
 baseurl: /
-domain_name: 'http://ditclear.github.io'
+domain_name: 'https://ditclear.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'http://ditclear.github.io'
+url:            'https://ditclear.github.io'
 author:         'ditclear'
