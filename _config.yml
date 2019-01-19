@@ -1,0 +1,16 @@
+name: D·IT·CLEAR
+description: adventure of my lifetime
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 5
+paginate_path: "/blog/page:num/"
+baseurl: /
+domain_name: 'http://ditclear.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://ditclear.github.io'
+author:         'ditclear'
