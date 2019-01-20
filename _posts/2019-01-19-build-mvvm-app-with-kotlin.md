@@ -483,4 +483,4 @@ class ArticleDetailActivity : BaseActivity<ArticleDetailActivityBinding>() {
 
 [如何构建Android MVVM 应用框架](https://tech.meituan.com/android_mvvm.html)
 
-[App开发架构指南（谷歌官方文档译文）
+[App开发架构指南（谷歌官方文档译文）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0523/7963.html)
