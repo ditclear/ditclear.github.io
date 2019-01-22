@@ -2,7 +2,7 @@
 layout: post
 title:  "告别反复、冗余的自定义Adapter"
 date:   2019-01-20 10:18:00
-categories: Android Vue shape
+categories: Android databinding recyclerview
 ---
 
 让开发者的重点落在数据上，做到数据驱动UI
