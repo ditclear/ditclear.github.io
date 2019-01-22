@@ -3,7 +3,8 @@ layout: post
 title: About me 
 ---
 
-Android开发工程师,专注于稳定快速的开发Android程序，对于架构有一定的见解,熟悉android开发中的mvvm模式和kotlin语言,带给你我所知道的android。
+Android开发工程师,喜欢更稳定快速的开发Android程序，对于架构有一定的见解,现在专注于提升整个产品的开发效率，降低维护成本，提供更好的产品体验。
+熟悉android开发中的mvvm模式和kotlin语言,带给你我所知道的android。
 
 MVVM With Kotlin专题
 
