@@ -6,7 +6,7 @@ highlighter: pygments
 logo: false
 paginate: 10
 paginate_path: "/blog/page:num/"
-baseurl: /
+baseurl: 
 domain_name: 'https://ditclear.github.io'
 plugins: [jekyll-paginate]
 
