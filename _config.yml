@@ -3,7 +3,7 @@ description: adventure of my lifetime
 
 markdown: kramdown
 highlighter: pygments
-logo: false
+logo: 'assets/images/profile.png'
 paginate: 10
 paginate_path: "/blog/page:num/"
 baseurl: 
