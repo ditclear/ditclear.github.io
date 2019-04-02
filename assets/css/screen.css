@@ -724,6 +724,17 @@
        word-break: break-word;
        hyphens: auto;
    }
+
+   /* for comment */
+   .comment {
+    position: relative;
+    width: 80%;
+    max-width: 710px;
+    margin: 4rem auto;
+    padding-bottom: 4rem;
+    word-break: break-word;
+    hyphens: auto;
+}
    
    /* Add a little circle in the middle of the border-bottom on our .post
       just for the lolz and stylepoints. */
