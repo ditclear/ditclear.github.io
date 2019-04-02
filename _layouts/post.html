@@ -1,7 +1,7 @@
 ---
 layout: default
-disqus: false
-archive: false
+disqus: true
+archive: true
 post_class: post-template
 ---
 
@@ -86,13 +86,11 @@ post_class: post-template
             <!-- Share links section -->
             {% include share.html %}
 
-            <!-- Disqus comments -->
-            {% if page.disqus %}
-                {% include disqus.html %}
-            {% endif %}
-
         </footer>
 
     </article>
+
+     <!-- gitalk comments -->
+     {% include comment.html %}
 
 </main>

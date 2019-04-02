@@ -4,8 +4,9 @@ description: adventure of my lifetime
 markdown: kramdown
 highlighter: pygments
 logo: 'assets/images/profile.png'
-paginate: 10
+paginate: 6
 paginate_path: "/blog/page:num/"
+permalink: blog/:title/
 baseurl: 
 domain_name: 'https://ditclear.github.io'
 plugins: [jekyll-paginate]
@@ -13,3 +14,12 @@ plugins: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'https://ditclear.github.io'
 author:         'ditclear'
+
+comments:
+  enable: true
+  gitalk_clientID: 7ad491a5f80741f1467f
+  gitalk_Secret: ba08cf9b6fd0413f9504eb31f7d4c13a8324e72a
+  gitalk_repo: ditclear.github.io
+  gitalk_owner: ditclear
+  gitalk_admin: ditclear
+  distractionFreeMode: false
