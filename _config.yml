@@ -5,10 +5,10 @@ markdown: kramdown
 highlighter: pygments
 logo: 'assets/images/profile.png'
 paginate: 6
-paginate_path: "/blog/page:num/"
-permalink: blog/:title/
+paginate_path: "blog/page:num/"
+permalink: blog/:title
 baseurl: 
-domain_name: 'https://ditclear.github.io'
+domain_name: 'https://www.ditclear.cn'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
