@@ -233,23 +233,5 @@ fun getUserDetail(@Path("userId") userId:String):Observable<BaseResponse<User>>
 
 如果你对于文章中的代码有疑问或者感兴趣，可以看看我写的小专栏 [《使用Kotlin构建MVVM应用程序》](https://xiaozhuanlan.com/ditclear)。
 
-如果本文对你有帮助，请点赞支持。
-
-==================== 分割线 ======================
-
-如果你想了解更多关于MVVM、Flutter、响应式编程方面的知识，欢迎关注我。
-
-##### 你可以在以下地方找到我：
-
-简书：https://www.jianshu.com/u/117f1cf0c556
-
-掘金：https://juejin.im/user/582d601d2e958a0069bbe687
-
-Github: https://github.com/ditclear
-
-![](http://upload-images.jianshu.io/upload_images/3722695-812afe12bc7a15fb?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
 
 
